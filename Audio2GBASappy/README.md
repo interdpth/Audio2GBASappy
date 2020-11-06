@@ -7,3 +7,4 @@ originalRom romAfterAsm pathtoaudiofile asmname titlename(mf or zm, if not zm or
 Example:
 testgame.gba newtestgame.gba song.mp3 song.asm mf 0x8800000 0x80a8d5c true
 Assemble the asm output with ARMIps
+Based on rayguns original work
